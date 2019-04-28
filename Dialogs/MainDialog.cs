@@ -27,7 +27,7 @@ namespace RestaurantBot
 {
 
     // I just left these in so you can plug and play
-    [LuisModel("e2fb5dc3-8e97-4d8c-a068-54d38c6545e4", "f017f470eff645c898f139b24dc3948c")]
+    [LuisModel("a9fe756c-7ea8-44cf-b754-8ea9771843fe", "4f3a7460f5e4423585c931e1391652c7")]
     [Serializable]
     public class MainDialog : LuisDialog<Object>, IDialog<object>
     {
